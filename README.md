@@ -103,7 +103,7 @@ jogadores_por_letra(arvore_com_todos.root,"A")
 Percorre uma arvore, imprimindo cada nível em uma nova linha e os que estão no mesmo nível na mesma linha
 
 
-```python
+```python2
 percurso_por_nivel(brasil.jogadores)
 ```
 
